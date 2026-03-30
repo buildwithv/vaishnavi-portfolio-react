@@ -8,8 +8,13 @@ export default function About() {
       <div className="about-pattern" />
       <div className="about-inner">
 
-        {/* Avatar */}
-        <div className="about-avatar">👩‍💻</div>
+       <div className="about-avatar">
+  <img 
+    src="/Vaishnavipic.png" 
+    alt="Vaishnavi Parmar" 
+    style={{ width: "100%", height: "100%", objectFit: "cover", borderRadius: "inherit" }}
+  />
+</div>
 
         {/* Text */}
         <div>

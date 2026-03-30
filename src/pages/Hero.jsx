@@ -44,7 +44,7 @@ export default function Hero() {
       {/* Main content */}
       <div className="hero-content">
         <div className="hero-available">
-          <span className="dot" />&nbsp;AVAILABLE FOR WORK
+          <span className="dot" />&nbsp;Open to Opportunities
         </div>
 
         <div className="hero-greeting">Hello, World! 👋</div>

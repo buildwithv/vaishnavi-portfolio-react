@@ -40,7 +40,7 @@ export default function Navbar({ isDark, onToggleTheme }) {
           className="hire-btn"
           onClick={(e) => { e.preventDefault(); scrollTo("contact"); }}
         >
-          Hire Me
+          Let's Connect
         </a>
       </div>
     </nav>

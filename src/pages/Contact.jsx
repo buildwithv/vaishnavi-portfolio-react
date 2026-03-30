@@ -2,7 +2,6 @@ import { PERSONAL } from "../data/portfolioData";
 
 const CONTACT_ITEMS = [
   { icon: "📧", label: "Email",    val: PERSONAL.email,    href: `mailto:${PERSONAL.email}`    },
-  { icon: "📱", label: "Phone",    val: PERSONAL.phone,    href: `tel:+13438891693`             },
   { icon: "📍", label: "Location", val: PERSONAL.location, href: "#"                            },
   { icon: "🔗", label: "LinkedIn", val: "linkedin.com/in/vaishnavi-parmar", href: PERSONAL.linkedin },
 ];

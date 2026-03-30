@@ -7,7 +7,6 @@ export const PERSONAL = {
   name:     "Vaishnavi Parmar",
   domain:   "Vaishnavi.dev",
   email:    "vaishnavidarji8@gmail.com",
-  phone:    "(437) 733-1320",
   location: "Toronto, ON, Canada",
   linkedin: "https://www.linkedin.com/in/vaishnavi-parmar-060042226/",
   github:   "https://github.com/buildwithv",
@@ -123,4 +122,5 @@ export const METRICS = [
 export const EMAILJS = {
   serviceId:  "YOUR_SERVICE_ID",   // e.g. "service_abc123"
   templateId: "YOUR_TEMPLATE_ID",  // e.g. "template_xyz789"
-  publicKey:  "YOUR_PUBLIC_KEY",   // e.g. "abcDEFg
+  publicKey:  "YOUR_PUBLIC_KEY",   // e.g. "abcDEFghiJKL"
+};

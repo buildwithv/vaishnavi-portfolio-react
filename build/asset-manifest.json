@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/vaishnavi-portfolio-react/static/css/main.8d264daf.css",
+    "main.js": "/vaishnavi-portfolio-react/static/js/main.f5240fab.js",
+    "index.html": "/vaishnavi-portfolio-react/index.html",
+    "main.8d264daf.css.map": "/vaishnavi-portfolio-react/static/css/main.8d264daf.css.map",
+    "main.f5240fab.js.map": "/vaishnavi-portfolio-react/static/js/main.f5240fab.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8d264daf.css",
+    "static/js/main.f5240fab.js"
+  ]
+}
