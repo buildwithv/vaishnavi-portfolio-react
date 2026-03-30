@@ -2,6 +2,7 @@
   "name": "vaishnavi-portfolio",
   "version": "1.0.0",
   "private": true,
+  "homepage": "https://buildwithv.github.io/vaishnavi-portfolio-react",
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
     "react": "^18.2.0",
